@@ -1,0 +1,16 @@
+20191205T042418: www.ibilemart.com/test.php
+PHP Fatal error:  Uncaught Error: Class 'Mail_mime' not found in /hermes/bosnaweb15a/b1675/ipg.omolarathompson17138/test.php:18
+Stack trace:
+#0 {main}
+  thrown in /hermes/bosnaweb15a/b1675/ipg.omolarathompson17138/test.php on line 18
+
+20191205T042703: www.ibilemart.com/test.php
+PHP Warning:  mail(): Extra header cannot contain 'To' header in /hermes/bosnaweb15a/b1675/ipg.omolarathompson17138/test.php on line 27
+PHP Warning:  mail(): Extra header cannot contain 'Subject' header in /hermes/bosnaweb15a/b1675/ipg.omolarathompson17138/test.php on line 27
+
+20191205T043914: www.ibilemart.com/test.php
+PHP Warning:  mail() expects parameter 3 to be string, array given in /hermes/bosnaweb15a/b1675/ipg.omolarathompson17138/test.php on line 28
+
+20191205T044112: www.ibilemart.com/test.php
+PHP Warning:  mail() expects parameter 2 to be string, array given in /hermes/bosnaweb15a/b1675/ipg.omolarathompson17138/test.php on line 28
+
